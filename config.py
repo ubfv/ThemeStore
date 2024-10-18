@@ -6,7 +6,7 @@ from ytmusicapi import YTMusic
 
 load_dotenv()
 
-TOKEN = os.environ.get("BOT_TOKEN","7295726109:AAGr0NCXFkeFiZZgObks41yLbf11elE81JY")
+TOKEN = os.environ.get("BOT_TOKEN","6723223787:AAEI19bC5hMhvU4EKvhwqNJF_jj8XLNlIzI")
 CHANNEL = "@" + os.environ.get("CHANNEL", "okokokkkkkkkd")
 OWNER_ID = int(os.environ.get("OWNER_ID", "7204102690"))
 
